@@ -64,11 +64,6 @@
   <img src="https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github" alt="GitHub Active" />
   <img src="https://img.shields.io/badge/Open_Source_Contributor-4BC51D?style=for-the-badge&logo=github" alt="Open Source Contributor" />
 
-  <!-- Competitions -->
-  <img src="https://img.shields.io/badge/ICPC-Participant-FF4500?style=for-the-badge" alt="ICPC Participant" />
-  <img src="https://img.shields.io/badge/CodeFest-Participant-1E90FF?style=for-the-badge" alt="CodeFest Participant" />
-  <img src="https://img.shields.io/badge/Prezident_Tech_Award-Participant-32CD32?style=for-the-badge" alt="Prezident Tech Award" />
-
   <!-- Course -->
   <img src="https://img.shields.io/badge/Najot_Ta'lim-Java_Backend-FFD700?style=for-the-badge" alt="Najot Talim Java Backend" />
 
