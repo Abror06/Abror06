@@ -29,64 +29,51 @@
 <h3 align="left">👨‍💻 Обо мне</h3>
 
 <p align="left">
-Я Java Backend-разработчик, специализирующийся на создании серверной части веб-приложений. Разрабатываю REST API на Spring Boot, работаю с базами данных и внедряю надёжную архитектуру для backend-систем.
+Я Java Backend-разработчик, специализирующийся на создании серверной части веб-приложений и корпоративных систем. Разрабатываю REST API на Spring Boot, работаю с базами данных и внедряю надёжную архитектуру для backend-систем.
 
 <br><br>
-- 🔥 Опыт в Django, DRF, PostgreSQL, Docker, Render  
-- 📱 Делаю Telegram-ботов на Aiogram  
-- 🚀 Люблю автоматизировать всё, что можно  
-- 📞 Мой номер: +99895877807  
+- 🔥 Опыт в Spring Boot, J, PostgreSQL, Docker  
+- 📱 Разрабатываю backend для веб-мобильных приложений и корпоративных систем.
+- 🚀 Люблю чистую архитектуру и автоматизацию
+- 📞 Мой номер: +998333373787 
 </p>
 
-###
-
-<h3 align="left">🧠 Мои проекты</h3>
-
-- [Examinator App](https://github.com/avazjon7/examinator-app) — веб-платформа для тестов  
-- [AvtoAkbar Test Bot](https://github.com/avazjon7/avtoakbar-bot) — Telegram-бот для автошколы  
-- [avtoakbar-test.uz](https://avtoakbar-test.uz) — онлайн-платформа для тестов водителей  
-- [qrlink-tashkent.uz](https://qrlink-tashkent.uz) — сервис генерации и отслеживания QR-ссылок  
-
-###
 
 <h3 align="left">🛠 Технологии:</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij idea logo" />
+</div>
 </div>
 <p align="left">
 
 <p align="left">
-  <!-- GitHub активность -->
+  <!-- GitHub activity -->
   <img src="https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github" alt="GitHub Active" />
   <img src="https://img.shields.io/badge/Open_Source_Contributor-4BC51D?style=for-the-badge&logo=github" alt="Open Source Contributor" />
 
-  <!-- Соревнования -->
+  <!-- Competitions -->
   <img src="https://img.shields.io/badge/ICPC-Participant-FF4500?style=for-the-badge" alt="ICPC Participant" />
   <img src="https://img.shields.io/badge/CodeFest-Participant-1E90FF?style=for-the-badge" alt="CodeFest Participant" />
-  <img src="https://img.shields.io/badge/PrezidentTechAward-Participant-32CD32?style=for-the-badge" alt="PrezidentTechAward Participant" />
+  <img src="https://img.shields.io/badge/Prezident_Tech_Award-Participant-32CD32?style=for-the-badge" alt="Prezident Tech Award" />
 
-  <!-- Курсы -->
-  <img src="https://img.shields.io/badge/Najot_Talim-Course-FFD700?style=for-the-badge" alt="Najot Talim" />
+  <!-- Course -->
+  <img src="https://img.shields.io/badge/Najot_Ta'lim-Java_Backend-FFD700?style=for-the-badge" alt="Najot Talim Java Backend" />
 
-  <!-- Проекты -->
-  <img src="https://img.shields.io/badge/Examinator_App-Python-DodgerBlue?style=for-the-badge" alt="Examinator App" />
-  <img src="https://img.shields.io/badge/AvtoAkbar_Bot-Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="AvtoAkbar Bot" />
+  <!-- Projects -->
+  <img src="https://img.shields.io/badge/Java_Backend-REST_API-DodgerBlue?style=for-the-badge&logo=java" alt="Java Backend REST API" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=spring" alt="Spring Boot Microservices" />
 </p>
+
