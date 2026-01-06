@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Open_Source_Contributor-4BC51D?style=for-the-badge&logo=github" alt="Open Source Contributor" />
 
   <!-- Course -->
-  <img src="https://img.shields.io/badge/PDP_ACADEMY-Java_Backend-FFD700?style=for-the-badge" alt="PDP ACADEMY Java Backend" />
+  <img src="https://img.shields.io/badge/PDP_ACADEMY-Java_Backend_Course-FFD700?style=for-the-badge" alt="PDP ACADEMY Java Backend Course" />
 
   <!-- Projects -->
   <img src="https://img.shields.io/badge/Java_Backend-REST_API-DodgerBlue?style=for-the-badge&logo=java" alt="Java Backend REST API" />
