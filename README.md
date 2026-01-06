@@ -2,11 +2,11 @@
 
 <!-- Динамический баннер -->
 <div align="center">
-  <img height="90" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Building+scalable+Java+Backend+systems+with+Spring+Boot+%26+REST+API+🚀" />
+  <img height="90" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Building+scalable+Java+Backend+systems+with+Spring+Boot+%26+REST+API+🚀" />
 </div>
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="1400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 <h1 align="center">👋 Привет, меня зовут Авазжон!</h1>
