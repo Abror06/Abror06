@@ -2,7 +2,7 @@
 
 <!-- Динамический баннер -->
 <div align="center">
-  <img height="80" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Building+scalable+Java+Backend+systems+with+Spring+Boot+%26+REST+API+🚀" />
+  <img height="90" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Building+scalable+Java+Backend+systems+with+Spring+Boot+%26+REST+API+🚀" />
 </div>
 
 <div align="center">
