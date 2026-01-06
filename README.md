@@ -65,10 +65,10 @@
   <img src="https://img.shields.io/badge/Open_Source_Contributor-4BC51D?style=for-the-badge&logo=github" alt="Open Source Contributor" />
 
   <!-- Course -->
-  <img src="https://img.shields.io/badge/Najot_Ta'lim-Java_Backend-FFD700?style=for-the-badge" alt="Najot Talim Java Backend" />
+  <img src="https://img.shields.io/badge/Najot_Ta'lim-Java_Backend-FFD700?style=for-the-badge" alt="PDP ACADEMY Java Backend" />
 
   <!-- Projects -->
   <img src="https://img.shields.io/badge/Java_Backend-REST_API-DodgerBlue?style=for-the-badge&logo=java" alt="Java Backend REST API" />
-  <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=spring" alt="Spring Boot Microservices" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=spring" alt="Spring Boot " />
 </p>
 
